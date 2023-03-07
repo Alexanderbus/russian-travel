@@ -5,8 +5,11 @@
     line-height: 20px;
     letter-spacing: 0em;
     color: #fff;
-    text-decoration: none;
-    margin-left: 18px;
+    margin-right: 18px;
+}
+
+.header__link:last-child {
+margin: 0;
 }
 
 @media screen and (min-width: 768px) {
