@@ -1,0 +1,23 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .places__sites {
+        margin-left: 68px;
+        align-self: flex-end;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .places__sites {
+        margin-left: 32px;
+        align-self: flex-end;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .places__sites {
+        margin-left: 40px;
+        align-self: flex-end;
+    }
+}
+
+
+/* анна пятница 19-00 3-4 1 стол
