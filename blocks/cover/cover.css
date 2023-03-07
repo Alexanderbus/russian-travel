@@ -21,10 +21,3 @@ background-color: rgba(42, 44, 47, .3);
     position: relative;
     z-index: 2;
 }
-
-.cover:hover {
-    opacity: .8;
-    transition: opacity 1s;
-
-}
-
