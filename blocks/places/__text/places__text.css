@@ -1,11 +1,6 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places__text {
         margin-right: 24px;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    .places__text {
         margin-top: 48px;
     }
 }
@@ -13,6 +8,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .places__text {
         margin-right: 48px;
+        margin-top: 48px;
     }
 }
 
@@ -20,6 +16,8 @@
     .places__text {
         margin-right: 148px;
         margin-left: 40px;
+        margin-top: 48px;
+        max-width: 484px;
     }
 }
 

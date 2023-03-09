@@ -1,12 +1,13 @@
 .places__title {
-    font-family: Inter;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-size: 32px;
     font-weight: 900;
     line-height: 35px;
     letter-spacing: 0em;
     color: #fff;
-    text-align: center;
-    margin: 0 auto;
+    text-align: left;
+    display: inline-block;
+    margin: 0 16px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -20,19 +21,14 @@
     }
 }
 
-@media screen and (min-width: 1024px) {
-    .places__title {
-        font-size: 72px;
-        line-height: 76px;
-        display: inline-block;
-        text-align: left;
-    }
-}
-
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .places__title {
         margin: 0 0 0 48px;
         width: 440px;
+        font-size: 72px;
+        line-height: 76px;
+        display: inline-block;
+        text-align: left;
     }
 }
 
@@ -42,5 +38,9 @@
     .places__title {
         margin: 0 0 0 148px;
         width: 460px;  
+        font-size: 72px;
+        line-height: 76px;
+        display: inline-block;
+        text-align: left;
     }
 }

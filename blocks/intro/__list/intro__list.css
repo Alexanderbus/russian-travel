@@ -5,3 +5,8 @@
     margin-top: 34px;
 }
 
+@media screen and (min-width: 1280px) {
+    .intro__list {
+        padding-left: 148px;
+    }
+}

@@ -1,4 +1,6 @@
 .header__links {
     display: inline-block;
     margin-left: 76px;
+    display: flex;
+    column-gap: 18px;
 }
