@@ -1,12 +1,5 @@
 @media screen and (min-width: 768px)  {
     .places__row {
         display: flex;
-
     }
 }
-
-/*@media screen and (min-width: 1280px) {
-    .places__row {
-        justify-content: center;
-    }
-} */

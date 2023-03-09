@@ -19,6 +19,6 @@
 
 @media screen and (min-width: 1280px) {
     .places {
-        margin-left: calc( (100vw - 1280px) / 2 )
+        margin-left: calc( (100vw - 1280px) / 2 );
     }    
 }
