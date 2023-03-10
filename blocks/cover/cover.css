@@ -24,7 +24,7 @@
 }
 
 
-.cover > .cover__title, .cover__subtitle {
+.cover > .cover__link, .cover__subtitle {
     position: relative;
     z-index: 2;
 }
