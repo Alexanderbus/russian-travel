@@ -23,16 +23,17 @@
     transition: 1s;
 }
 
-
-.cover > .cover__link, .cover__subtitle {
-    position: relative;
-    z-index: 2;
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover {
+        height: 640px;
+    }
 }
 
 @media screen and (min-width: 1280px) {
     .cover {
         margin: 0 48px;
         max-width: 1280px;
+        height: 740px;
         margin-left: calc( (100vw - 1280px) / 2 );
     }
 }
