@@ -3,4 +3,4 @@
 
 В этой работе я впервые выполнил гриды, в процессе проекта я узнал что такое псевдоклассы.
 
- ссылка на гит pages https://github.com/Alexanderbus/russian-travel.git
+ ссылка на гит pages https://alexanderbus.github.io/russian-travel/index.html
